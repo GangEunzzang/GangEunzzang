@@ -19,7 +19,7 @@
 
 - **[celery#10667](https://github.com/celery/celery/pull/10667)** Keep a task cancelled by cold shutdown unacked, so it is requeued instead of lost
 - **[celery#10715](https://github.com/celery/celery/pull/10715)** Release the Redis pubsub lock while waiting for messages, so `result.get()` under gevent no longer hangs
-- **[celery#10679](https://github.com/celery/celery/pull/10679)** Skip the `REVOKED` write when a task already has a final result, so chord `FAILURE`s are not overwritten
+- **[celery#10679](https://github.com/celery/celery/pull/10679)** Skip the `REVOKED` write when a task already has a final result, so a chord `FAILURE` is not overwritten
 - **[celery#10080](https://github.com/celery/celery/pull/10080)** Close only the fds that are actually open on `--detach`, removing minute-long stalls in containers
 - **[py-amqp#466](https://github.com/celery/py-amqp/pull/466)** Serialize `frame_writer()` with a lock, so concurrent publishers no longer interleave frames
 
