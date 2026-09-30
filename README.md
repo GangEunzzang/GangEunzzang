@@ -43,3 +43,9 @@
 | billiard | [#455](https://github.com/celery/billiard/pull/455) | Bind the closerange-based `close_open_fds()` on Python 3 |
 | py-amqp | [#466](https://github.com/celery/py-amqp/pull/466) | Serialize `frame_writer()` writes with a lock |
 
+
+### <img src="https://github.com/pytest-dev.png" width="20" /> pytest
+
+| Repo | PR | Summary |
+|---|---|---|
+| pytest | [#15040](https://github.com/pytest-dev/pytest/pull/15040) | Mark editable-installed plugins for assertion rewriting ![approved](https://img.shields.io/badge/approved-awaiting%20merge-2ea44f?style=flat-square) |
