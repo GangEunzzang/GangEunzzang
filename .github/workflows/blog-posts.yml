@@ -17,6 +17,6 @@ jobs:
         with:
           feed_list: "https://gangeunzzang.github.io/feed.xml"
           max_post_count: 5
-          template: "$newline- [$title]($url) <sub>$date</sub>"
-          date_format: "yyyy.mm.dd"
+          template: "$newline- `$date`&nbsp; [$title]($url)"
+          date_format: "yyyy.mm"
           commit_message: "Update latest blog posts"
