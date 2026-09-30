@@ -1,6 +1,10 @@
-# GangEun
+<div align="center">
 
-# 31%
+# GangEun · 31%
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rkddms0420)](https://solved.ac/rkddms0420/)
+
+</div>
 
 <br />
 
@@ -39,8 +43,3 @@
 | billiard | [#455](https://github.com/celery/billiard/pull/455) | Bind the closerange-based `close_open_fds()` on Python 3 |
 | py-amqp | [#466](https://github.com/celery/py-amqp/pull/466) | Serialize `frame_writer()` writes with a lock |
 
-<br />
-
-## Baekjoon
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rkddms0420)](https://solved.ac/rkddms0420/)
