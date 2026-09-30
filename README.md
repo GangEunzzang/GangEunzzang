@@ -68,5 +68,9 @@ Backend Engineer · Python / Java<br />
 
 ## Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Celery 톺아보기](https://gangeunzzang.github.io/posts/celery%EB%9E%80/) <sub>2026.02.01</sub>
+- [FastAPI 톺아보기](https://gangeunzzang.github.io/posts/fastapi%EB%9E%80/) <sub>2025.11.16</sub>
+- [Dispatcher Servlet 톺아보기](https://gangeunzzang.github.io/posts/Dispatcher-Servlet-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/) <sub>2025.07.18</sub>
+- [개인 프로젝트 MSA 전환 - &lpar;6&rpar; Circuit Breaker와 Fallback을 활용한 장애 복구](https://gangeunzzang.github.io/posts/MSA-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-MSA-%EC%A0%84%ED%99%98-(6)-Circuit-Breaker%EC%99%80-Fallback%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%A5%EC%95%A0-%EB%B3%B5%EA%B5%AC/) <sub>2025.05.25</sub>
+- [개인 프로젝트 MSA 전환 - &lpar;5&rpar; Config Server를 활용한 설정 관리](https://gangeunzzang.github.io/posts/MSA-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-MSA-%EC%A0%84%ED%99%98-(5)-Config-Server%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A4%EC%A0%95-%EA%B4%80%EB%A6%AC/) <sub>2025.05.19</sub>
 <!-- BLOG-POST-LIST:END -->
